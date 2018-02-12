@@ -4,7 +4,7 @@
           "events_count": 20 
         },
     
-        positions: {
+        "positions": {
           {
             "name": "Rozrywka",
             "count": 6,
