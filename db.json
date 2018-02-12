@@ -1,3 +1,27 @@
 {
-  {},{},{}
+    categories: {
+        info: {
+          events_count: 20 
+        },
+    
+        positions: {
+          {
+            name: "Rozrywka",
+            count: 6,
+            image_url: "http://www.hades.info.pl/foto/klub1.jpg"
+          },{
+            name: "Kultura",
+            count: 3,
+            image_url: "http://www.mdk-zdunskawola.pl/bip/wp-content/uploads/2013/03/11092134_847786481934467_2943751294690283215_o.jpg"
+          },{
+            name: "Sport",
+            count: 4,
+            image_url: "https://d-nm.ppstatic.pl/kadr/k/r/68/18/5a0021743322e_o,size,933x0,q,70,h,867369.jpg"
+          },{
+            name: "Rodzinne",
+            count: 7,
+            image_url: "http://naweekendzik.pl/wp-content/uploads/2016/05/102_9040.jpg"
+          }
+        }
+    }
 }
